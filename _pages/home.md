@@ -41,17 +41,7 @@ post_date: 2020-09-02 13:34:53
 			<a href="#info3">
 						</a>
 			<h1><b>Your Food Choices does matter</b></h1>		
-		<b><b>At this point, you might think
-<br>
-What is the best way to reduce food carbon footprint?
-<br>
-Should I get locally sourced food?
-<br>
-Should I eat organic food ?
-<br>
-Should I cut on meat?
-<br>
-To avoid misconception, explore food choices myths in the next section</b></b>		
+		<p><b>What can we include in this section to convince user</b></p>		
 			<a href="#info4">
 						</a>
 			<h1><b>Food Choices Myths</b></h1>		
