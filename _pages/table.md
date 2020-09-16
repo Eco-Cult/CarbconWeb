@@ -10,6 +10,6 @@ permalink: https://carbcon.tech/table/
 published: true
 post_date: 2020-09-02 15:31:29
 ---
-<h1>Food Carbon Footprint Table</h1>		
+<h1><b>Food Carbon Footprint Table</b></h1>		
 			<h3>Search Your Food and Discover The Carbon Footprint Value</h3>		
 		[table id=1 /]
