@@ -42,10 +42,10 @@ post_date: 2020-09-10 04:09:56
 					</a>
 		<p style="text-align: left;"><strong>Quick Tips on Food Choices:</strong></p>
 <ul>
- 	<li>Swap one meal a week from red meat to chicken, or vegetarian</li>
- 	<li>Purchase food in right measures to reduce food wastage</li>
- 	<li>Alternate foods on the right side to the left side of the charts</li>
- 	<li>Choose sustainably farmed food items over organic and local</li>
+<li>Swap one meal a week from red meat to chicken, or vegetarian</li>
+<li>Purchase food in right measures to reduce food wastage</li>
+<li>Alternate foods on the right side to the left side of the charts</li>
+<li>Choose sustainably farmed food items over organic and local</li>
 </ul>		
 			<h1><b>MEAT &amp; EGG</b></h1>		
 		<ul><li>Meat and egg is a food category which creates high amounts of carbon footprint. </li><li>Reducing meat consumption on a weekly basis has a much greater impact than eating locally sourced meat.</li><li>Try substituting red meat with white meat and fish and seafood.</li></ul>		
