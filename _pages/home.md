@@ -22,7 +22,7 @@ post_date: 2020-09-02 13:34:53
 				EXPLORE FOOD CHOICES RECOMMENDATION
 		</a>
 			<h1><b>What Is Food Carbon Footprint?</b></h1>		
-		<p><b>Food Carbon Footprint is a term to describe the environmental impact of food production. It is a numeric value measured in kg/tonnes of CO2  emitted into atmosphere</b></p><p><b>Let's take a closer look at the environmental impacts of food production</b></p>		
+		<p><b>Food Carbon Footprint is a term to describe the environmental impact of food production. It is a numeric value measured in kg/tonnes of CO2 emitted into atmosphere</b></p><p><b>Let's take a closer look at the environmental impacts of food production</b></p>		
 			<a href="#info2">
 						</a>
 			<h1><b>how does food Production impact the environment?</b></h1>		
