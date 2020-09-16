@@ -65,7 +65,7 @@ post_date: 2020-09-02 13:34:53
 			<a href="#info5">
 						</a>
 			<h1><b>What can you do?</b></h1>		
-		<p><b>Now that you have gone this far, are you ready to take action?</b></p>		
+		<p><b>Now that you have gone this far, feel empowered by hopping on this journey and reduce your food carbon footprint by using our tools.</b></p>		
 			<h2><b>FOOTPRINT CALCULATOR</b></h2>		
 			<h2><b>Calculate and discover your food carbon footprint</b></h2>		
 		<a href="https://carbcon.tech/calculator/" data-text="">
