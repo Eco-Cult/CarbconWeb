@@ -41,7 +41,7 @@ post_date: 2020-09-02 13:34:53
 			<a href="#info3">
 						</a>
 			<h1><b>Your Food Choices does matter</b></h1>		
-		<p>The average food carbon footprint of Australian is 82 kg/CO2 per week</p><p>- Parliament of Australia</p>		
+		<p>The average food carbon footprint of an Australian is 82 kg/CO2 per week</p><a href="https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BriefingBook45p/EmissionsReduction">- Parliament of Australia</a>		
 			<a href="#info4">
 						</a>
 			<h1><b>Food Choices Myths</b></h1>		
