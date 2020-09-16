@@ -10,7 +10,7 @@ permalink: https://carbcon.tech/about/
 published: true
 post_date: 2020-09-02 13:16:25
 ---
-<h1>WHO WE ARE</h1>		
+<h1><b>WHO WE ARE</b></h1>		
 			<h2>Our Mission</h2>		
 		<p>To help people be more conscious about carbon footprint and to help them reduce their food carbon foodprint.</p>
 &nbsp;		
