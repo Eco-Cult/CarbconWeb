@@ -13,6 +13,14 @@ post_date: 2020-09-26 22:03:36
 <h1><b>LET US DO THE CALCULATIONS!</b></h1>		
 			<h4>Presenting<b> CARBCONcalator! </b><br><br>Your one-stop weekly food carbon footprint calculator with multiple food categories to ease your calculations. <br><br>Just enter your food portion (<i>kgs</i>), select a food item for each category, and get the individual or collective result.*<br></h4>		
 			<h4><i>* The carbon footprint value calculated from kg of CO2 emitted for per kg of food item</i></h4>		
+			<h2>Couldn't find an item you were looking for? Check out our extensive list of food items.</h2>		
+		<a href="https://carbcon.tech/table/" data-text="">
+				Find more food items here!
+		</a>
+			<h2>Is your weekly carbon footprint value high? Take a look at our recommender system!</h2>		
+		<a href="https://carbcon.tech/recom/" data-text="">
+				Looking for Recommendations?
+		</a>
 			<h2>Flip to put things in perspective!</h2>		
 	                        <h2>125-130 kg co2</h2>
 	                           <p><p>With a carbon footprint value between this range</p></p>
