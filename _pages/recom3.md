@@ -6,7 +6,7 @@ post_excerpt: |
   <p>Who We Are? Our Mission Click edit button to change this text. Lorem ipsum dolor sit amet, adipiscing elit. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Extraordinary Experiences Click edit button to change this text. Lorem ipsum &hellip;</p>
   <p class="read-more"> <a class="" href="https://websitedemos.net/outdoor-adventure-02/about/"> <span class="screen-reader-text">About</span> Read More &raquo;</a></p>
 layout: page
-permalink: https://carbcon.tech/recommendation3/
+permalink: https://carbcon.tech/recom3/
 published: true
 post_date: 2020-09-26 20:26:12
 ---
