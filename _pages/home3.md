@@ -6,7 +6,7 @@ post_excerpt: |
   <p>Multi-purpose Template Create Your Website Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Services About Us Service 1 Service 2 Service 3 Amazing Things for You Always write benefits over features. Mention all the benefits or services with some real examples. Focus on how you &hellip;</p>
   <p class="read-more"> <a class="" href="https://websitedemos.net/mountain/"> <span class="screen-reader-text">Home</span> Read More &raquo;</a></p>
 layout: page
-permalink: https://carbcon.tech/home_iteration3/
+permalink: https://carbcon.tech/home3/
 published: true
 post_date: 2020-09-28 22:29:40
 ---
