@@ -1,14 +1,14 @@
 ---
-ID: 1177
-post_title: Home
+ID: 1207
+post_title: home_iteration3
 author: CarbCon
 post_excerpt: |
   <p>Multi-purpose Template Create Your Website Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Services About Us Service 1 Service 2 Service 3 Amazing Things for You Always write benefits over features. Mention all the benefits or services with some real examples. Focus on how you &hellip;</p>
   <p class="read-more"> <a class="" href="https://websitedemos.net/mountain/"> <span class="screen-reader-text">Home</span> Read More &raquo;</a></p>
 layout: page
-permalink: https://carbcon.tech/home/
+permalink: https://carbcon.tech/home_iteration3/
 published: true
-post_date: 2020-09-17 19:35:57
+post_date: 2020-09-28 22:29:40
 ---
 <img width="1024" height="144" src="https://carbcon.tech/wp-content/uploads/2020/09/100-1024x144.png" alt="" loading="lazy" srcset="https://carbcon.tech/wp-content/uploads/2020/09/100-1024x144.png 1024w, https://carbcon.tech/wp-content/uploads/2020/09/100-300x42.png 300w, https://carbcon.tech/wp-content/uploads/2020/09/100-768x108.png 768w, https://carbcon.tech/wp-content/uploads/2020/09/100-1536x216.png 1536w, https://carbcon.tech/wp-content/uploads/2020/09/100-2048x288.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px">
 <b>Discover Your Food Carbon Footprint and Make Better Choices</b>
