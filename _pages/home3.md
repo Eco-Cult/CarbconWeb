@@ -48,7 +48,7 @@ post_date: 2020-09-28 22:29:40
 			<h1><b>Food Choices Myths</b></h1>		
 		<p><b>Flip The Cards and Debunk The Myths</b></p>		
 	                        <h2>Myth #1</h2>
-	                           <p><p><b>Organic food has less carbon footprint because organic farming requires less fertilizer and pesticide  compared to conventional farming</b></p></p>
+	                           <p><b>Organic food has less carbon footprint because organic farming requires less fertilizer and pesticide  compared to conventional farming</b></p>
 	                        <h2>Fact #1</h2>
 	                           <p><b>Organic farming requires more land  compared to conventional farming to produce the same amount of yields, resulting in higher overall carbon footprint</b></p>
 	                        <h2>Myth #2</h2>
