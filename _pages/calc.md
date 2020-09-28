@@ -6,7 +6,7 @@ post_excerpt: |
   <p>About Established in 1995 Tell people about what you, your expertise and experience.  Think about what you would want to see on this page if you were looking at an about page.  This is your chance to tell about how you are qualified to serve them.Nulla hendrerit metus et tincidunt tristique. Fusce molestie commodo mauris, &hellip;</p>
   <p class="read-more"> <a class="" href="https://websitedemos.net/mountain/about/"> <span class="screen-reader-text">About</span> Read More &raquo;</a></p>
 layout: page
-permalink: https://carbcon.tech/calculator/
+permalink: https://carbcon.tech/calc/
 published: true
 post_date: 2020-09-28 23:10:39
 ---
