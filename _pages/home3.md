@@ -72,10 +72,8 @@ post_date: 2020-09-28 22:29:40
 		<a href="https://carbcon.tech/calculator/" data-text="">
 				TRY CALCULATOR
 		</a>
-										<img width="596" height="196" src="https://carbcon.tech/wp-content/uploads/2020/09/calculator-2.gif" alt="" loading="lazy" />											
 			<h2><b>FOOD RECOMMENDATION</b></h2>		
 			<h2><b>Explore food recommendation and make better food choices</b></h2>		
 		<a href="https://carbcon.tech/recom/" data-text="">
 				EXPLORE RECOMMENDATION
 		</a>
-										<img width="596" height="196" src="https://carbcon.tech/wp-content/uploads/2020/09/recom2.gif" alt="" loading="lazy" />
